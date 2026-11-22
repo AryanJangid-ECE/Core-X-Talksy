@@ -1,0 +1,41 @@
+{
+  "version": "7",
+  "dialect": "postgresql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "7",
+      "when": 1791859073674,
+      "tag": "0000_secure_admin_reporting_and_moderation",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "7",
+      "when": 1791950426922,
+      "tag": "0001_tighten_post_moderation_and_reporting",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "7",
+      "when": 1791950591358,
+      "tag": "0002_require_confirmed_email_for_admin_role",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "7",
+      "when": 1792207544107,
+      "tag": "0003_restrict_admin_audit_writes_and_role_changes",
+      "breakpoints": true
+    },
+    {
+      "idx": 4,
+      "version": "7",
+      "when": 1792641198281,
+      "tag": "0004_admin_audience_insights",
+      "breakpoints": true
+    }
+  ]
+}
